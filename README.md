@@ -8,20 +8,24 @@ I'm an engineering student who loves solve algorithms
 -->
 ### Social Media
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/alexisozaetam">
+<a href="https://www.linkedin.com/in/alexisozaetam" target="_blank">
   <img align="left" alt="AlexisOzaetaM | Alexis Ozaeta | LinkedIn" width="21px" src="https://raw.githubusercontent.com/alexisozaetam/alexisozaetam/master/assets/linkedin.png" />
 </a>
 <!-- GitLab -->
-<a href="https://gitlab.com/AlexisOzaetaM">
+<a href="https://gitlab.com/AlexisOzaetaM" target="_blank">
   <img align="left" alt="AlexisOzaetaM | AlexisOzaetaM | GitLab" width="21px" src="https://raw.githubusercontent.com/alexisozaetam/alexisozaetam/master/assets/gitlab.png" />
 </a>
-<!-- Platzi -->
-<a href="https://platzi.com/@AlexisOzaetaM/">
-  <img align="left" alt="m_aruchan | Alexis Ozaeta | Instagram" width="21px" src="https://static.platzi.com/mf-landings/image/isotipoPlatzi-442ccc1186a9806e18c9889cc301ffe1.png" />
-</a>
 <!-- Instagram -->
-<a href="https://www.instagram.com/m_aruchan/">
+<a href="https://www.instagram.com/m_aruchan/" target="_blank">
   <img align="left" alt="m_aruchan | Alexis Ozaeta | Instagram" width="21px" src="https://raw.githubusercontent.com/alexisozaetam/alexisozaetam/master/assets/instagram.png" />
+</a>
+<!-- Medium -->
+<a href="https://medium.com/@alexisozaetam" target="_blank">
+  <img align="left" alt="AlexisOzaetaM | Alexis Ozaeta | Medium" width="21px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg">  
+</a>
+<!-- Platzi -->
+<a href="https://platzi.com/@AlexisOzaetaM/" target="_blank">
+  <img align="left" alt="m_aruchan | Alexis Ozaeta | Platzi" width="21px" src="https://static.platzi.com/mf-landings/image/isotipoPlatzi-442ccc1186a9806e18c9889cc301ffe1.png" />
 </a>
 
 <br/>
