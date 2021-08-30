@@ -1,5 +1,5 @@
 ### Hello there :shipit:
-I'm an engineering student who loves solve algorithms
+I'm a software engineer who loves solve problems with code.
 
 ![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=alexisozaetam&show_icons=true&hide_border=true&title_color=4491c9&icon_color=76a363&bg_color=2b2f37&text_color=a6aebc)
 ![Github Stats for Carlos Azaustre](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexisozaetam&layout=compact&title_color=4491c9&text_color=a6aebc&bg_color=2b2f37)
